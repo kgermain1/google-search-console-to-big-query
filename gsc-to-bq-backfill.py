@@ -1,4 +1,4 @@
-#MCC Status Code Checker Script
+#Google Search Console Data to BigQuery - Historical Data Pull
 #Written by Kevin Germain for Zenith Global
 
 from google.oauth2 import service_account
